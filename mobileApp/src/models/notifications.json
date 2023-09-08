@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "message": "User1 liked your post",
+        "icon": "https://example.com/icons/like.png",
+        "timestamp": "10 minutes ago"
+    },
+    {
+        "id": 2,
+        "message": "User2 commented on your post",
+        "icon": "https://example.com/icons/comment.png",
+        "timestamp": "20 minutes ago"
+    },
+    {
+        "id": 3,
+        "message": "User3 shared your post",
+        "icon": "https://example.com/icons/share.png",
+        "timestamp": "30 minutes ago"
+    }
+]

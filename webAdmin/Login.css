@@ -1,0 +1,9 @@
+
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url(./adminbg.png)no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
